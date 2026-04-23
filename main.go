@@ -1,7 +1,7 @@
 package main
 
 import (
-	"booking-app/helper"
+	"github.com/vikaspoddar/booking-app/helper"
 	"fmt"
 	"sync"
 	"time"

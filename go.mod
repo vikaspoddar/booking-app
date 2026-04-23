@@ -1,3 +1,3 @@
-module booking-app
+module github.com/vikaspoddar/booking-app
 
-go 1.23.4
+go 1.26.2
